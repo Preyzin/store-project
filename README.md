@@ -1,2 +1,2 @@
-# projeto-loja
-Projeto feito para aprender a usar git, objetivo: criar um sistema que faça o controle de vendas de uma loja
+# store-project
+The objective of this project is to create a system that allow a store to make salle and storages control
