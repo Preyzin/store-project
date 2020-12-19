@@ -11,3 +11,15 @@
 
 1608249980 c:\users\mathe\onedrive\Área de trabalho\store_projetc\store_project.h
 
+1608251028 source:c:\users\mathe\projeto-loja\store_projetc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"store_project.h"
+
+1608338607 c:\users\mathe\projeto-loja\store_projetc\store_project.h
+
+1608339489 source:c:\users\mathe\projeto-loja\store_projetc\store_project.c
+	<stdlib.h>
+	<stdio.h>
+	"storage.h"
+
